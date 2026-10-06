@@ -34,9 +34,6 @@ CSS, and JavaScript, bringing together everything learned throughout the course.
 
 ## Preview
 ![Desktop View](./screenshots/desktop-view.png)
-![Mobile View](./screenshots/mobile-view.png)
-![Tablet View](./screenshots/tablet-view.png)
-
 ## Author
 Sehar Waseem <br>
 Software Engineering Student
